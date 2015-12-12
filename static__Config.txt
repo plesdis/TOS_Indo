@@ -1,0 +1,9 @@
+ServiceNation=IDN
+Dictionary=YES
+UseNexonSSO=NO
+UseNexonGLM=NO
+UseHackshield=NO
+UseSteamClient=NO
+UseXigncode=NO
+UseLiveXigncode=NO
+SoundLanguage=korean
