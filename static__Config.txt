@@ -6,4 +6,4 @@ UseHackshield=NO
 UseSteamClient=NO
 UseXigncode=NO
 UseLiveXigncode=NO
-SoundLanguage=korean
+SoundLanguage=japanese
