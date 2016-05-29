@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MintPC (Mi) -->
+<!-- edited with XMLSPY v7004 rel. 3 U (http://www.xmlspy.com) by Jung (IMCGames Co., Ltd) -->
+<serverlist>
+        <server GROUP_ID="1001" TRAFFIC="0" ENTER_LIMIT="100" NAME="Laima" Server0_IP="203.89.146.81" Server0_Port="7001" Server1_IP="203.89.146.82" Server1_Port="7002" Server2_IP="203.89.146.83" Server2_Port="7003" Server2_IP="203.89.146.84" Server2_Port="7004"/>
+	<server GROUP_ID="1002" TRAFFIC="0" ENTER_LIMIT="100" NAME="Zemyna" Server0_IP="203.89.146.86" Server0_Port="7001" Server1_IP="203.89.146.87" Server1_Port="7002" Server2_IP="203.89.146.88" Server2_Port="7003" Server2_IP="203.89.146.89" Server2_Port="7004"/>
+</serverlist>
